@@ -1,0 +1,57 @@
+[
+  {
+    "drug_name": "acetaminophen",
+    "section": "mechanism",
+    "source_type": "pubmed_paper",
+    "source_title": "Acetaminophen overview sample",
+    "text": "アセトアミノフェンは、一般に痛みや熱をやわらげる目的で用いられます。研究では中枢での作用が関与すると考えられていますが、詳しい仕組みには議論が残っています。",
+    "journal": "Sample Journal",
+    "year": "2024",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/00000001/",
+    "priority": 2
+  },
+  {
+    "drug_name": "loxoprofen",
+    "section": "mechanism",
+    "source_type": "pubmed_paper",
+    "source_title": "NSAID education sample",
+    "text": "ロキソプロフェンは、炎症や痛みに関わる物質の産生を抑えることで作用すると説明されます。胃腸症状への注意を合わせて伝えることが、患者向け説明では重要とされています。",
+    "journal": "Sample Journal",
+    "year": "2023",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/00000002/",
+    "priority": 2
+  },
+  {
+    "drug_name": "amlodipine",
+    "section": "mechanism",
+    "source_type": "pubmed_paper",
+    "source_title": "Amlodipine mechanism sample",
+    "text": "アムロジピンは血管を広げる方向にはたらき、血圧を下げる薬として広く使われています。研究では、継続して飲むことが血圧管理に重要とされています。",
+    "journal": "Sample Journal",
+    "year": "2022",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/00000003/",
+    "priority": 2
+  },
+  {
+    "drug_name": "magnesium oxide",
+    "section": "education_support",
+    "source_type": "pubmed_paper",
+    "source_title": "Constipation counseling sample",
+    "text": "酸化マグネシウムでは、下痢や腎機能への注意をわかりやすく伝えることが、服薬継続の支援に役立つと考えられます。",
+    "journal": "Sample Journal",
+    "year": "2021",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/00000004/",
+    "priority": 2
+  },
+  {
+    "drug_name": "amoxicillin",
+    "section": "education_support",
+    "source_type": "pubmed_paper",
+    "source_title": "Antibiotic adherence sample",
+    "text": "アモキシシリンのような抗菌薬では、決められた日数を守る重要性を説明することが、治療の中断を減らす支援につながると報告されています。",
+    "journal": "Sample Journal",
+    "year": "2024",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/00000005/",
+    "priority": 2
+  }
+]

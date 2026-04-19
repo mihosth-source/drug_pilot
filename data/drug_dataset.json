@@ -1,0 +1,122 @@
+[
+  {
+    "drug_name": "acetaminophen",
+    "section": "efficacy",
+    "source_type": "pmda_insert",
+    "source_title": "添付文書サンプル",
+    "text": "熱や痛みをやわらげるために用いられる薬です。",
+    "priority": 1
+  },
+  {
+    "drug_name": "acetaminophen",
+    "section": "usage",
+    "source_type": "pmda_guide",
+    "source_title": "患者向医薬品ガイドサンプル",
+    "text": "通常は決められた回数と量を守って使用します。飲みすぎは避けてください。",
+    "priority": 1
+  },
+  {
+    "drug_name": "acetaminophen",
+    "section": "side_effect",
+    "source_type": "pmda_safety",
+    "source_title": "安全性情報サンプル",
+    "text": "まれに重い肝障害などが起こることがあります。強いだるさ、黄疸などがあるときは受診してください。",
+    "priority": 1
+  },
+  {
+    "drug_name": "loxoprofen",
+    "section": "efficacy",
+    "source_type": "pmda_insert",
+    "source_title": "添付文書サンプル",
+    "text": "痛みや炎症、発熱をやわらげるために用いられる薬です。",
+    "priority": 1
+  },
+  {
+    "drug_name": "loxoprofen",
+    "section": "usage",
+    "source_type": "pmda_guide",
+    "source_title": "患者向医薬品ガイドサンプル",
+    "text": "通常は食後などに医師や薬剤師の指示に従って使用します。空腹時は胃に負担がかかることがあります。",
+    "priority": 1
+  },
+  {
+    "drug_name": "loxoprofen",
+    "section": "side_effect",
+    "source_type": "pmda_safety",
+    "source_title": "安全性情報サンプル",
+    "text": "胃の不快感や吐き気がみられることがあります。息苦しさや発疹がある場合は早めに相談してください。",
+    "priority": 1
+  },
+  {
+    "drug_name": "amlodipine",
+    "section": "efficacy",
+    "source_type": "pmda_insert",
+    "source_title": "添付文書サンプル",
+    "text": "高血圧症の治療に用いられる薬です。",
+    "priority": 1
+  },
+  {
+    "drug_name": "amlodipine",
+    "section": "usage",
+    "source_type": "pmda_guide",
+    "source_title": "患者向医薬品ガイドサンプル",
+    "text": "通常は1日1回、決められた量を飲みます。飲み忘れたときは自己判断で2回分をまとめて飲まないでください。",
+    "priority": 1
+  },
+  {
+    "drug_name": "amlodipine",
+    "section": "side_effect",
+    "source_type": "pmda_safety",
+    "source_title": "安全性情報サンプル",
+    "text": "顔のほてり、むくみ、動悸などがみられることがあります。症状が強いときは相談してください。",
+    "priority": 1
+  },
+  {
+    "drug_name": "magnesium oxide",
+    "section": "efficacy",
+    "source_type": "pmda_insert",
+    "source_title": "添付文書サンプル",
+    "text": "便秘の改善や胃酸を中和する目的で用いられることがある薬です。",
+    "priority": 1
+  },
+  {
+    "drug_name": "magnesium oxide",
+    "section": "usage",
+    "source_type": "pmda_guide",
+    "source_title": "患者向医薬品ガイドサンプル",
+    "text": "水と一緒に飲みます。下痢が続くときは量の調整が必要なことがあります。",
+    "priority": 1
+  },
+  {
+    "drug_name": "magnesium oxide",
+    "section": "side_effect",
+    "source_type": "pmda_safety",
+    "source_title": "安全性情報サンプル",
+    "text": "下痢や腹部の不快感がみられることがあります。腎機能が低下している人は特に注意が必要です。",
+    "priority": 1
+  },
+  {
+    "drug_name": "amoxicillin",
+    "section": "efficacy",
+    "source_type": "pmda_insert",
+    "source_title": "添付文書サンプル",
+    "text": "細菌による感染症の治療に用いられる抗菌薬です。",
+    "priority": 1
+  },
+  {
+    "drug_name": "amoxicillin",
+    "section": "usage",
+    "source_type": "pmda_guide",
+    "source_title": "患者向医薬品ガイドサンプル",
+    "text": "指示された日数を守って飲みます。症状が軽くなっても自己判断で途中でやめないことが大切です。",
+    "priority": 1
+  },
+  {
+    "drug_name": "amoxicillin",
+    "section": "side_effect",
+    "source_type": "pmda_safety",
+    "source_title": "安全性情報サンプル",
+    "text": "発疹、下痢、吐き気などがみられることがあります。強いアレルギー症状があるときは受診してください。",
+    "priority": 1
+  }
+]
